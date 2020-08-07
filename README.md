@@ -2,10 +2,10 @@
 The all in one app that can manage the students performance on the go.
 
 # Features:
-# 1)Add Events
-# 2)Event Record 
-# 3)Add Participant
-# 4)Cess Record
+ 1)Add Events
+ 2)Event Record 
+ 3)Add Participant
+ 4)Cess Record
 ___________________________________________________________________________________________________________________________________
 # ADD EVENTS:
 - add the detail of the upcoming event with the date and description.  
